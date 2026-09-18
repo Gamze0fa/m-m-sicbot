@@ -1,0 +1,255 @@
+{
+  "labunem": {
+    "level": 1,
+    "xp": 0,
+    "rep": 0,
+    "title": "",
+    "mining": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "pickaxe": 1
+    },
+    "fishing": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "rod": 1
+    },
+    "inventory": {
+      "ores": {},
+      "fish": {}
+    },
+    "marriage": null,
+    "marriedTo": null,
+    "afk": false,
+    "afkReason": "",
+    "jail": false,
+    "jailTime": 0,
+    "jailReason": "",
+    "badges": [],
+    "perks": [],
+    "bomb": null,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "totalEarned": 0,
+    "totalSpent": 0,
+    "quests": {},
+    "wallet": 0,
+    "stats": {
+      "walk_score": 190,
+      "message_count": 852,
+      "tip_given": 0,
+      "tip_received": 0,
+      "music_count": 118,
+      "punch_count": 0,
+      "last_position": {
+        "x": 12.448135375976562,
+        "y": 1.1920928955078125e-7,
+        "z": 13.659042358398438
+      },
+      "last_move_time": 1789720063644
+    }
+  },
+  "labune": {
+    "level": 1,
+    "xp": 0,
+    "rep": 0,
+    "title": "",
+    "mining": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "pickaxe": 1
+    },
+    "fishing": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "rod": 1
+    },
+    "inventory": {
+      "ores": {},
+      "fish": {}
+    },
+    "marriage": null,
+    "marriedTo": null,
+    "afk": false,
+    "afkReason": "",
+    "jail": true,
+    "jailTime": 1789384012083,
+    "jailReason": "Soygun başarısız",
+    "badges": [],
+    "perks": [],
+    "bomb": null,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "totalEarned": 0,
+    "totalSpent": 0,
+    "quests": {},
+    "wallet": 0,
+    "stats": {
+      "walk_score": 8,
+      "message_count": 211,
+      "tip_given": 0,
+      "tip_received": 0,
+      "music_count": 32,
+      "punch_count": 0,
+      "last_position": {
+        "x": 10.3609619140625,
+        "y": 0.600006103515625,
+        "z": 12.060531616210938
+      },
+      "last_move_time": 1789570146268
+    }
+  },
+  "Mr.Sezar_01": {
+    "level": 1,
+    "xp": 0,
+    "rep": 0,
+    "title": "",
+    "mining": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "pickaxe": 1
+    },
+    "fishing": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "rod": 1
+    },
+    "inventory": {
+      "ores": {},
+      "fish": {}
+    },
+    "marriage": null,
+    "marriedTo": null,
+    "afk": false,
+    "afkReason": "",
+    "jail": false,
+    "jailTime": 0,
+    "jailReason": "",
+    "badges": [],
+    "perks": [],
+    "bomb": null,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "totalEarned": 0,
+    "totalSpent": 0,
+    "quests": {},
+    "wallet": 0,
+    "stats": {
+      "walk_score": 0,
+      "message_count": 43,
+      "tip_given": 0,
+      "tip_received": 0,
+      "music_count": 0,
+      "punch_count": 0,
+      "last_position": null,
+      "last_move_time": 0
+    }
+  },
+  "Resetwarldlaeglence": {
+    "level": 1,
+    "xp": 0,
+    "rep": 0,
+    "title": "",
+    "mining": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "pickaxe": 1
+    },
+    "fishing": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "rod": 1
+    },
+    "inventory": {
+      "ores": {},
+      "fish": {}
+    },
+    "marriage": null,
+    "marriedTo": null,
+    "afk": false,
+    "afkReason": "",
+    "jail": false,
+    "jailTime": 0,
+    "jailReason": "",
+    "badges": [],
+    "perks": [],
+    "bomb": null,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "totalEarned": 0,
+    "totalSpent": 0,
+    "quests": {},
+    "wallet": 0,
+    "stats": {
+      "walk_score": 0,
+      "message_count": 24,
+      "tip_given": 0,
+      "tip_received": 0,
+      "music_count": 2,
+      "punch_count": 0,
+      "last_position": null,
+      "last_move_time": 0
+    }
+  },
+  "_Javed": {
+    "level": 1,
+    "xp": 0,
+    "rep": 0,
+    "title": "",
+    "mining": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "pickaxe": 1
+    },
+    "fishing": {
+      "level": 1,
+      "xp": 0,
+      "auto": false,
+      "rod": 1
+    },
+    "inventory": {
+      "ores": {},
+      "fish": {}
+    },
+    "marriage": null,
+    "marriedTo": null,
+    "afk": false,
+    "afkReason": "",
+    "jail": false,
+    "jailTime": 0,
+    "jailReason": "",
+    "badges": [],
+    "perks": [],
+    "bomb": null,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastCrime": 0,
+    "totalEarned": 0,
+    "totalSpent": 0,
+    "quests": {},
+    "wallet": 0,
+    "stats": {
+      "walk_score": 0,
+      "message_count": 430,
+      "tip_given": 0,
+      "tip_received": 0,
+      "music_count": 12,
+      "punch_count": 0,
+      "last_position": null,
+      "last_move_time": 0
+    }
+  }
+}

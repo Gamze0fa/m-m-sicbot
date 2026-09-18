@@ -1,0 +1,16 @@
+{
+  "name": "highrise-music-bot",
+  "version": "1.0.0",
+  "description": "Highrise Music Bot with Icecast Streaming",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@distube/ytdl-core": "^4.16.0",
+    "dotenv": "^16.3.1",
+    "express": "^5.2.1",
+    "highrise-js-sdk": "latest"
+  }
+}
